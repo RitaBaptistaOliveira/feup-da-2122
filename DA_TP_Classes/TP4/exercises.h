@@ -1,0 +1,5 @@
+#ifndef AD_TP_CLASSES_EXERCISES_H
+#define AD_TP_CLASSES_EXERCISES_H
+
+int exA();
+#endif //AD_TP_CLASSES_EXERCISES_H
